@@ -1,5 +1,5 @@
 '''
-This code tried to webscrap a special hashtag from the twitter and extract all the User_id's who tweeted that specific hashtag
+This code tries to webscrap a special hashtag from the twitter and extract all the User_id's who tweeted that specific hashtag
 and will save them all in a text file
 
 Using this code is allowed just with referencing the authur
